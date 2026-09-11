@@ -1,0 +1,9 @@
+{
+    "id": "/",
+    "start_url": "/",
+    "theme_color": "#0000ff",
+    "scope": "/",
+    "name": "CodepadMasters",
+    "short_name": "CodepadMasters",
+    "display": "standalone"
+}
