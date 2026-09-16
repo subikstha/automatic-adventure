@@ -5,5 +5,23 @@
     "scope": "/",
     "name": "CodepadMasters",
     "short_name": "CodepadMasters",
-    "display": "standalone"
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "icons/maskable-icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+         {
+            "src": "icons/icon-1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        }
+    ]
 }

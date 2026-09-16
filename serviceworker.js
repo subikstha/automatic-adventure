@@ -9,6 +9,7 @@ globalThis.addEventListener("install", event => {
     })
 })
 
+// Cache first strategy
 globalThis.addEventListener("fetch", event => {
     event.respondWith(
         // the match method accepts string, url or a request object
